@@ -26,6 +26,7 @@ public class JogoDaVelha {
         System.out.println("          RU: 2378297");
         System.out.println("            UNINTER");
         System.out.println("      Belo Horizonte - 2020");
+        System.out.println("         Testando GitHub");
         System.out.println("----------------------------------\n");
         
         while(continuar){//Para saber se o jogo vai continuar. se for falso o jogo encerra
